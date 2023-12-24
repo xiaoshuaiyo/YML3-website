@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,R as p}from"./chunks/framework.tsv_73ZG.js";const _=JSON.parse('{"title":"插件开发","description":"","frontmatter":{},"headers":[],"relativePath":"plugin.md","filePath":"plugin.md"}'),e={name:"plugin.md"},t=p("",12),l=[t];function i(o,c,u,r,d,h){return s(),n("div",null,l)}const g=a(e,[["render",i]]);export{_ as __pageData,g as default};

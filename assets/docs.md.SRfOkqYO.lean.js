@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,R as o}from"./chunks/framework.tsv_73ZG.js";const u=JSON.parse('{"title":"开始使用😀","description":"","frontmatter":{},"headers":[],"relativePath":"docs.md","filePath":"docs.md"}'),s={name:"docs.md"},c=o("",5),r=[c];function i(n,d,_,l,h,p){return e(),t("div",null,r)}const f=a(s,[["render",i]]);export{u as __pageData,f as default};
